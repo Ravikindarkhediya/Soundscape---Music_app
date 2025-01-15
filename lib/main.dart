@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Get Music',
+      title: 'Music',
       theme: darkTheme,
       home: const SongPage(),
     );
