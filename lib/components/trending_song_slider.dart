@@ -86,7 +86,7 @@ class TrendingSongSlider extends StatelessWidget {
     return CarouselSlider(
         items: sliderItems,
         options: CarouselOptions(
-          height: 320,
+          height: 260,
           viewportFraction: 1,
           initialPage: 0,
           enableInfiniteScroll: true,
