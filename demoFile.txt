@@ -1,0 +1,2 @@
+# Soundscape---Music_app
+Music App with GetX State Management
